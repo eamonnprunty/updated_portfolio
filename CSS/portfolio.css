@@ -80,12 +80,12 @@ a {
 
 /* Quotation elements */
 q {
-    font-style: italic; /* Makes the quote italicized */
+    font-style: normal; /* Makes the quote italicized */
 }
 
 /* Image elements */
 img {
-    filter: grayscale(75%); /* This rids our pictures of 75% of their color */
+    filter: grayscale(0%); /* This rids our pictures of 0% of their color */
     border-radius: 8px; /* Gives all images slightly rounded corners */
     max-width: 100%; /* Ensures all images stay within the width of their container */
     height: 100%; /* Sets the height of all images */
